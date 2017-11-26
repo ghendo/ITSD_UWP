@@ -42,7 +42,7 @@ namespace ITSD.View
 
         private void btnTest2_Click(object sender, RoutedEventArgs e)
         {
-            DisplayNoWifiDialog();
+            DisplayNoWifiDialog(); 
         }
     }
 }
